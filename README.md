@@ -1,5 +1,5 @@
 # cache-simulator
-A java program simulating different kind of caches  
+A java program simulating different kinds of caches  
 Computer Architecture course project  
 instructor: Dr Farbeh  
 Amirkabir University of Technology  
